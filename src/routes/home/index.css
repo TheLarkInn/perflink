@@ -97,3 +97,12 @@ dialog button {
   font-size: 1.2rem;
   padding: 1rem;
 }
+
+.lite {
+  color: red;
+  position: absolute;
+  right: 15%;
+  top: 45%;
+  font-size: 4em;
+  font-style: italic;
+}

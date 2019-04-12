@@ -1,3 +1,5 @@
+import '../library/prism'
+import '../library/prism.css'
 import { CopyIcon, CloseIcon } from './icons.js'
 import Editor from './editor.js'
 const { highlight, languages } = Prism
